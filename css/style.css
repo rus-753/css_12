@@ -125,5 +125,8 @@ body {
 
 .block__3 {
 	background-color: #18b5a4;
+	position: relative;
+	z-index: 2px;
+	/* смешение по вертикали z */
 
 }

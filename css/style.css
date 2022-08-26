@@ -102,14 +102,28 @@ body {
 	height: 800px;
 }
 
-.block__1 {
-	background-color: #ece89d;
+.block div {
 	line-height: 50px;
 	font-size: 18px;
 	font-weight: 700;
 	text-align: center;
 }
 
-.block__2 {}
 
-.block__3 {}
+.block__1 {
+	background-color: #ece89d;
+}
+
+.block__2 {
+	background-color: #5e5373;
+	color: white;
+	position: relative;
+	left: 50px;
+	top: 60px;
+
+}
+
+.block__3 {
+	background-color: #18b5a4;
+
+}

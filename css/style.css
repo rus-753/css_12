@@ -90,4 +90,19 @@ h6 {
 
 /*--------------------*/
 
-body {}
+body {
+	padding: 30px;
+}
+
+.block {
+	border: 5px solid red;
+	max-width: 800px;
+	margin: 0 auto;
+	height: 800px;
+}
+
+.block__1 {}
+
+.block__2 {}
+
+.block__3 {}
